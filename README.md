@@ -1,5 +1,6 @@
 # StanfordCSCurriculum
-Stanford CS Curriculum
+From:https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview
+
 
 |   | A                      | B      | C                                                                           | D                                                                                        |
 |----|------------------------|--------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
